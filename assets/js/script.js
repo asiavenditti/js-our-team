@@ -58,7 +58,7 @@ const cardMaker = (teamMembers) => {
     <div class="card" style="max-width: 540px;">
     <div class="row g-0">
     <div class="col-md-4">
-            <img src="${member.img}" class="img-fluid object-fit-cover rounded-start" alt="member">
+            <img src="${member.img}" class="img-fluid object-fit-cover rounded-start h-100" alt="member">
             </div>
           <div class="col-md-8">
             <div class="card-body text-bg-dark">
